@@ -1,0 +1,12 @@
+Exercise 1
+
+Klasy:
+Person
+
+Atrybuty i ich typy danych:
+Name string
+Surname string
+age int
+
+Metody i typy danych:
+IntroduceYourself():
